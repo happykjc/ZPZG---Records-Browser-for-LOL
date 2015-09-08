@@ -1,0 +1,41 @@
+App name : ZPZG - Records Browser for LOL
+
+Market Link : http://market.android.com/details?id=zpzg.main
+
+*Discriptions*
+
+The simple records browser for league of legends - ZPZG
+
+The game is started. I want to know other players. but I have just loading time.
+
+If you know the enemy and yourself,  you will never be in peril in a hundred battles.
+
+Just one time, you just enter your summoner name, select your server and press buttons.
+
+When loading game, if you press search button, you can see the simple information about all summoners.
+
+After loading simple data, if you press each summoner name, you can see the more detail information about selected summoner.
+
+Information in basic screen
+1. Summoner name of all summoners in the game
+2. Tier
+3. League Point (LP)
+4. Winning rate of ranked solo
+
+Information in detail info. screen
+1. Summoner name, Tier, LP, Winning rate
+2. Information about current champion (winning rate, average KDA)
+3. MOST PIC 5 information (winning rate, average KDA)
+4. recent 10 games information (winning rate, average KDA, CS)
+
+It is available for all servers
+- North America
+- EU West
+- Brazil
+- EU Nordic & East
+- Latin America North
+- Latin America south
+- Turkey
+- Oceania
+- Russia
+- Korea
