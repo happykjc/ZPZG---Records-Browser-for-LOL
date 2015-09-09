@@ -5,8 +5,6 @@ ZPZG -Records-Browser-for-LOL Bic Header
 The simple records browser for league of legends - ZPZG
 
 * Download URL - [ZPZG for android](http://market.android.com/details?id=zpzg.main)
- 
-![App Image1](https://github.com/happykjc/ZPZG---Records-Browser-for-LOL/blob/master/help_en_1.png)
 
 The game is started. I want to know other players. but I have just loading time.
 
@@ -17,6 +15,11 @@ Just one time, you just enter your summoner name, select your server and press b
 When loading game, if you press search button, you can see the simple information about all summoners.
 
 After loading simple data, if you press each summoner name, you can see the more detail information about selected summoner.
+
+App Images Small Header
+![App Image1](https://github.com/happykjc/ZPZG---Records-Browser-for-LOL/blob/master/help_en_1.png)
+![App Image2](https://github.com/happykjc/ZPZG---Records-Browser-for-LOL/blob/master/help_en_2.png)
+![App Image3](https://github.com/happykjc/ZPZG---Records-Browser-for-LOL/blob/master/help_en_3.png)
 
 Information in basic screen Small Header
 . Summoner name of all summoners in the game
