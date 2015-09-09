@@ -5,6 +5,8 @@ ZPZG -Records-Browser-for-LOL Bic Header
 The simple records browser for league of legends - ZPZG
 
 * Download URL - [ZPZG for android](http://market.android.com/details?id=zpzg.main)
+ 
+![App Image1](https://github.com/happykjc/ZPZG---Records-Browser-for-LOL/blob/master/help_en_1.png)
 
 The game is started. I want to know other players. but I have just loading time.
 
